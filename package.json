@@ -1,0 +1,21 @@
+{
+  "name": "svg-sprite-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sprite": "svg-sprite --config svg-sprite-conf.json svg/*.svg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "svg-sprite": "^2.0.2"
+  },
+  "audio-desc": "https://fonts.google.com/icons?selected=Material+Symbols+Outlined:audio_description:FILL@0;wght@400;GRAD@0;opsz@48&icon.query=description",
+  "error": "https://fonts.google.com/icons?selected=Material+Symbols+Outlined:error:FILL@0;wght@400;GRAD@0;opsz@48&icon.query=error&query=error",
+  "svg-sprite": "https://www.npmjs.com/package/svg-sprite",
+  "svg-symbol-sprite": "https://www.npmjs.com/package/svg-symbol-sprite",
+  "material-design-icons": "^3.0.1",
+  "svg-symbol-sprite": "^1.4.0"
+}
